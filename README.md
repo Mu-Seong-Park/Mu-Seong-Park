@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&text=MS's Github)
-
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=rounded&text=MS's%20GitHub%20Profile)
+</div>
 
 ### Hi there 👋
 
