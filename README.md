@@ -23,7 +23,7 @@
 
 #### used at least once
 <!--JQuery-->
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <!--
 **Mu-Seong-Park/Mu-Seong-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
