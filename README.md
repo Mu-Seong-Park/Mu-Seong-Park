@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&text=MS's%20GitHub%20Profile)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=d8c0e4&fontSize=50&animation=fadeIn&fontColor=ffffff&text=MS's%20GitHub%20Profile)
   
 ### Welcome my GitHub profile !!
 </div>
